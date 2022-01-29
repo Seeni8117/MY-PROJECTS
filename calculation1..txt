@@ -1,0 +1,101 @@
+>>> def calculation(a,r):
+...     print("areacube",6*a*a)
+...     print("volumcube",a*a*a)
+...     print("areaofcircule",3.14*a*r)
+...     print("volumofspear",4/3*3.14*r*r)
+...
+>>> calculation(8,2)
+areacube 384
+volumcube 512
+areaofcircule 50.24
+volumofspear 16.746666666666666
+
+>>> def areaofcube(a):
+...     return(6*a*a)
+...
+>>>
+>>> def areaofcube(a):
+...     return(6*a*a)
+...
+>>> areaofcube(5)
+150
+>>> def volumofcube(a):
+...     return(a*a*a)
+...
+>>> volumofcube(8)
+512
+>>> def areaofcirculu(r):
+...     return(3.14*r*r)
+...
+>>> areaofcirculu(7)
+153.86
+>>> def volumofspear(r):
+...     return(4/3*3.14*r*r*r)
+...
+>>> volumofspear(10)
+4186.666666666667
+>>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
