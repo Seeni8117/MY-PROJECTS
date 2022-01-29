@@ -1,0 +1,4 @@
+Hello!This is demofile.txt.
+This is for tasting porpes.
+Good luck!Now the file has more content
+Now the file has more content
